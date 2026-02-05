@@ -1,0 +1,20 @@
+Mussarela = "ac6bf034-3c1c-47c2-a238-8baf0edd2f9d"
+
+[
+  {
+    "id": "c0321e29-5d22-4564-b8b2-d6758780ef75",
+    "nome": "calabresa"
+  },
+  {
+    "id": "39510bba-60de-45ee-bfe6-57dd7b703ef8",
+    "nome": "mussarela"
+  },
+  {
+    "id": "9d298941-f432-47cb-a061-56f6df9b69f4",
+    "nome": "molho de tomate"
+  }
+]
+
+Id do gusta = "297ae69b-4510-43c3-b56e-13dd27b18c88"
+
+

@@ -1,0 +1,15 @@
+# Pastas de build do .NET (Lixo gerado automaticamente)
+[Bb]in/
+[Oo]bj/
+
+# Arquivos específicos de usuário do VS Code
+.vscode/
+*.user
+
+# Segredos e configurações de ambiente local (NUNCA SUBIR ISSO)
+appsettings.Development.json
+*.env
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
