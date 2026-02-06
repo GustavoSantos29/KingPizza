@@ -21,7 +21,8 @@ export function Login({ navigation }: any) {
 
   function handleLogin() {
     if (email && password) {
-      navigation.navigate("Menu");
+      //navigation.navigate("Menu");
+      navigation.navigate("AppRoutes");
     } else {
       Alert.alert("Erro", "Preenche tudo aí");
     }
